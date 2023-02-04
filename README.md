@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Navneil Naicker</h1>
+<h1 align="center">Hello, I'm Navneil Naicker</h1>
 <h3 align="center">A passionate full-stack software developer from Suva, Fiji</h3>
 
 - 📄 Know about my experiences [https://www.navz.me/](https://www.navz.me/)
