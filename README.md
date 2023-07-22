@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Navneil Naicker</h1>
-<h3 align="center">A passionate full-stack software engineer from Suva, Fiji</h3>
+<h3 align="center">Passionate Polyglot Software Engineer of 10+ years from Suva, Central, Fiji</h3>
 
 - 📄 Know about my experiences [https://www.navz.me/](https://www.navz.me/)
 
@@ -7,5 +7,5 @@
 <p align="left">
 <a href="https://twitter.com/navzme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navzme" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/navneil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/navneil-naicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navneil-naicker" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3047846/navneil-naicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="navneil-naicker" height="30" width="40" /></a>
 </p>
