@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Navneil Naicker</h1>
-<h3 align="center">Passionate Polyglot Software Engineer of 10+ years from Suva, Central, Fiji</h3>
+<h3 align="center">Passionate Polyglot Software Engineer of 12+ years from Suva, Central, Fiji</h3>
 
 - 📄 Know about my experiences [https://www.navz.me/](https://www.navz.me/)
 
